@@ -1,0 +1,44 @@
+h3 {
+    font-weight: 600;
+   
+}
+.form-top {
+    background-color: rgba(239, 235, 235, 0.97);
+    padding: 10px;
+    border-width: 1px;
+    border-bottom: 1px solid grey;
+}
+
+form {
+    border-width: 1px;
+    border-style: solid;
+    border-color: grey;
+
+    margin-left: 60px;
+    margin-right: 60px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.alert {
+  
+     border: 1px solid #ebccd1;
+     padding: 10px;
+     margin: 15px;
+     border-radius: 4px; 
+    }
+
+.form-inputs {
+    padding: 15px;
+}
+
+.footer {
+  background-color: rgba(239, 235, 235, 0.97);
+  padding: 10px 15px;
+  border-top: 1px solid #999;
+
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  gap: 8px;
+} 
